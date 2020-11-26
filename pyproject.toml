@@ -14,7 +14,6 @@ jupyter = "^1.0.0"
 joblib = "^0.17.0"
 lineflow = "^0.6.4"
 transformers = "^3.5.1"
-setuptools
 
 [tool.poetry.dev-dependencies]
 
