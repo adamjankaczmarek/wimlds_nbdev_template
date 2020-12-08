@@ -1,7 +1,6 @@
 {
   "wimlds_nbdev_template": {
     "Overview": "/",
-    "module name here": "core.html",
     "Bert Token Classifier - PyTorch-Lightning Module": "bert_token_classifier.html"
   }
 }

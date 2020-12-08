@@ -4,8 +4,7 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"BertTokenClassifier": "00_bert_token_classifier.ipynb"}
 
-modules = ["bert/experiments/bert_token_classifier.py",
-           "bert_experiments/bert_token_classifier.py"]
+modules = ["bert_experiments/bert_token_classifier.py"]
 
 doc_url = "https://adamjankaczmarek.github.io/wimlds_nbdev_template/"
 

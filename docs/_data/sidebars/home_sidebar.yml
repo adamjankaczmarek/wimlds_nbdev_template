@@ -10,9 +10,6 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
-    - output: web,pdf
       title: Bert Token Classifier - PyTorch-Lightning Module
       url: bert_token_classifier.html
     output: web
